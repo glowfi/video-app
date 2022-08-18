@@ -13,7 +13,7 @@
 -   React,
 -   Node.js
 -   Express
--   Redux
+-   Redux-toolkit
 -   Firebase
 
 ### Demo
