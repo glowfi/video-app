@@ -1,5 +1,9 @@
 ## Video-app
 
+![DEMO](./demo.png)
+![DEMO](./demo2.png)
+![DEMO](./demo3.png)
+
 ### Features
 
 -   Secure JWT authentication.
@@ -15,9 +19,3 @@
 -   Express
 -   Redux-toolkit
 -   Firebase
-
-### Demo
-
-![DEMO](./demo.png)
-![DEMO](./demo2.png)
-![DEMO](./demo3.png)
